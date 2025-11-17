@@ -1,0 +1,10 @@
+{
+  "job_portal": "LinkedIn",
+  "filters": {
+    "keywords": ["Software Intern", "Python"],
+    "location": "Bangalore",
+    "experience_level": "Internship"
+  },
+  "resume_path": "./resume/my_resume.pdf",
+  "delay_range_sec": [2, 10]
+}
